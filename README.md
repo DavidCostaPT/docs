@@ -4,4 +4,4 @@ In order to get a common understanding of how the THEOplayer SDKs are to be used
 
 # Table of contents
 
-1. [Getting Started](getting-started.md)
+1. [Getting Started](https://github.com/THEOplayer/docs/blob/master/getting-started.md)
